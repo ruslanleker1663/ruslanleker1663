@@ -9,7 +9,7 @@
 - 🏍️ Ducati , Honda , Yamaha , KTM
 - 🎭 Bohemian Rhapsody ( A Night At Opera 1975 )
 - 💻 HTML-CSS , Javascript , Go , Python , PHP , C++
-- 🎮 Geometry Dash, chess.com
+- 🎮 Geometry Dash, www.chess.com
 
 <!---
 ruslanleker1663/ruslanleker1663 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
