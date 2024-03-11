@@ -3,6 +3,10 @@
 - ❤️ Love Singing, Play music, Programing, Sport and Watching Movie ( Romance , Action ) 
 - 🏫 School at Public Vacation High School 4 Malang
 - 🎂 Born in Malang at May, 29th 2007
+- 🏎️ Redbull , Ferrari , Mercedes , AMR and Mc Laren
+- 🥋 Lee Dae Hoon , Rodolfo Llena Reyes Jr, Bruce Lee , Shaolin , Boloyeung , Ma Deong Seok 
+- ⚽ AC Milan, Arsenal, Barcelona, Bayern Munchen, Chelsea, Inter Milan, Juventus, Liverpool, Manchester City & United, Paris Saint Germain, Real Madrid
+- 🏍️ Ducati , Honda , Yamaha , KTM 
 
 <!---
 ruslanleker1663/ruslanleker1663 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
