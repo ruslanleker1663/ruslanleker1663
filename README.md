@@ -16,3 +16,10 @@ Jihad
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihadZaidan&layout=compact)
 
+###
+
+Adi 
+
+### 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=literal-methapor&layout=compact)
