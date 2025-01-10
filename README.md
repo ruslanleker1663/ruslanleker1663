@@ -18,3 +18,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazuya&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlcaFu&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zufarzz&layout=compact)
