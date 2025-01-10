@@ -22,4 +22,4 @@ Adi
 
 ### 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=literal-methapor&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=literal-metaphor&layout=compact)
