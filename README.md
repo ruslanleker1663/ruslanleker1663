@@ -11,4 +11,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbiyogaChandra&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaperPlay-Studio&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoctoX&layout=compact)
