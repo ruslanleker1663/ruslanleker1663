@@ -23,4 +23,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fawassss&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faris-Sama&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farissama&layout=compact)
