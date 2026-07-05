@@ -1,6 +1,6 @@
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nextjs,git,figma&theme=dark)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nextjs,git,figma,webflow&theme=dark)](https://skillicons.dev) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ruslanleker1663&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
