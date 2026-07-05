@@ -1,10 +1,8 @@
 # 💻 Tech Stack:
 
-| Propperty               |   Component                                                                                                        |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------|
-| **Language**           | [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&theme=dark)](https://skillicons.dev)   | 
-| **Library**            | [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,nextjs&theme=dark)](https://skillicons.dev) |
-| **Deployment** | [![My Skills](https://skillicons.dev/icons?i=netlify,vercel&theme=dark)](https://skillicons.dev)
+| Skills                                                                                                                       |
+|---------------------------------------------------------------------------------------------------------------------------------------------|
+| [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nextjs&theme=dark)](https://skillicons.dev)   | 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ruslanleker1663&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
