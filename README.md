@@ -14,4 +14,4 @@
  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ruslanleker1663&bg_color=0D1117&color=FFFF00&line=FFFF00&point=FFFF00&area=true&area_color=FFFF00&hide_border=true" alt="GitHub Activity"/>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=yellow)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
