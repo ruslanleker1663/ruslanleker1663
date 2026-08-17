@@ -1,7 +1,10 @@
 # 💻 Tech Stack:
 
-Framework | [![My Skills](https://skillicons.dev/icons?i=vite,nextjs,nodejs,react&theme=dark)](https://skillicons.dev) |
-Library | [![My Skills](https://skillicons.dev/icons?i=tailwindcss,threejs&theme=dark)](https://skillicons.dev) |
+*Framework*
+[![My Skills](https://skillicons.dev/icons?i=vite,nextjs,nodejs,react&theme=dark)](https://skillicons.dev)
+
+*Library*
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss,threejs&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ruslanleker1663&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
