@@ -8,8 +8,12 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ruslanleker1663&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ruslanleker1663&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ruslanleker1663&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<img
+  align="left"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=guidev1911&layout=normal&theme=github_dark&langs_count=8&stats_format=percentages"
+  width="300"
+/>
 
 # 📊***Activity Graph***
 
