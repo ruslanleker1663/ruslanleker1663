@@ -12,7 +12,7 @@
 <div align="center">
 
 # ***Technology***  
-[![My Skills](https://skillicons.dev/icons?i=vite,nextjs,nodejs,react,html,css,js,ts,webflow,figma,vercel,vscode&theme=dark)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=vite,nextjs,nodejs,react,html,css,js,ts,webflow,figma,vercel,vscode,npm,threejs&theme=dark)](https://skillicons.dev) 
 
 </div>
 
