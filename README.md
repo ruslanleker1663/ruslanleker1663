@@ -22,7 +22,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=ruslanleker1663&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 <img
-  align="left"
+  align="center"
   src="https://github-readme-stats.shion.dev/api/top-langs/?username=ruslanleker1663&layout=normal&theme=github_dark&langs_count=8&stats_format=percentages"
   width="300"
 />
