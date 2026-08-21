@@ -15,6 +15,8 @@
   width="300"
 />
 
+<br/>
+
 # 📊***Activity Graph***
 
  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ruslanleker1663&bg_color=0D1117&color=000080&line=000080&point=000080&area=true&area_color=000080&hide_border=true" alt="GitHub Activity"/>
