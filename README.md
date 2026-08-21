@@ -6,11 +6,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-# ***Framework***  
-[![My Skills](https://skillicons.dev/icons?i=vite,nextjs,nodejs,react&theme=dark)](https://skillicons.dev) 
+# ***Technology***  
+[![My Skills](https://skillicons.dev/icons?i=vite,nextjs,nodejs,react,html,css,js,ts,webflow,figma,vercel,vscode&theme=dark)](https://skillicons.dev) 
 
-# ***Library*** 
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss,threejs&theme=dark)](https://skillicons.dev) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ruslanleker1663&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
