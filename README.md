@@ -11,11 +11,10 @@
 
 <img
   align="left"
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=ruslanleker1663&layout=normal&theme=github_dark&langs_count=5&stats_format=percentages"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=ruslanleker1663&layout=normal&theme=github_dark&langs_count=8&stats_format=percentages"
   width="300"
 />
 
-<br/>
 
 # 📊***Activity Graph***
 
