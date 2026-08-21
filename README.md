@@ -1,3 +1,9 @@
+# 📊***Activity Graph***
+
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ruslanleker1663&bg_color=0D1117&color=000080&line=000080&point=000080&area=true&area_color=000080&hide_border=true" alt="GitHub Activity"/>
+
+### ✍️ ***Random Dev Quote***
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 # ***Framework***  
@@ -14,11 +20,3 @@
   src="https://github-readme-stats.shion.dev/api/top-langs/?username=ruslanleker1663&layout=normal&theme=github_dark&langs_count=8&stats_format=percentages"
   width="300"
 />
-
-
-# 📊***Activity Graph***
-
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ruslanleker1663&bg_color=0D1117&color=000080&line=000080&point=000080&area=true&area_color=000080&hide_border=true" alt="GitHub Activity"/>
-
-### ✍️ ***Random Dev Quote***
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
