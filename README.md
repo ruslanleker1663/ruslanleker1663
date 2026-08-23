@@ -1,3 +1,38 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ruslanleker1663&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=ruslanleker1663&theme=neon" alt="ruslanleker1663 hero section" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=ruslanleker1663&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=ruslanleker1663&theme=neon" alt="ruslanleker1663 about section" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ruslanleker1663&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=ruslanleker1663&theme=neon" alt="ruslanleker1663 stats section" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ruslanleker1663&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=ruslanleker1663&theme=neon" alt="ruslanleker1663 projects section" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=ruslanleker1663&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=ruslanleker1663&theme=neon" alt="ruslanleker1663 social section" />
+  </picture>
+</p>
+
 <div align="center">
 
 # 📊***Activity Graph***
@@ -13,18 +48,3 @@
 
 # ***Technology***  
 [![My Skills](https://skillicons.dev/icons?perline=10&i=vite,nextjs,nodejs,react,html,css,js,ts,webflow,figma,vercel,vscode,npm,threejs,github,git,gitlab,netlify,androidstudio,markdown&theme=dark)](https://skillicons.dev) 
-
-</div>
-
-<div align="center">
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ruslanleker1663&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-<img
-  align="center"
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=ruslanleker1663&layout=normal&theme=github_dark&langs_count=8&stats_format=percentages"
-  width="300"
-/>
-
-</div>
