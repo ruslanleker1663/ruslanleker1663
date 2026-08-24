@@ -40,7 +40,7 @@
  ![](https://streak-stats.demolab.com?user=ruslanleker1663&theme=dark&hide_border=true)
 
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=ruslanleker1663&theme=github-blue&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=ruslanleker1663&theme=github-dark&hide_border=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruslanleker1663&theme=github_dark)
 
