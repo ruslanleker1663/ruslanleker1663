@@ -59,4 +59,4 @@
 <div align="center">
 
 # ***Technology***  
-[![My Skills](https://skillicons.dev/icons?perline=10&i=vite,nextjs,nodejs,react,html,css,js,ts,webflow,figma,vercel,vscode,npm,threejs,github,git,gitlab,netlify,androidstudio,markdown&theme=dark)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?perline=10&i=vite,nextjs,nodejs,react,html,css,js,ts,webflow,figma,vercel,vscode,npm,threejs,github,git,gitlab,netlify,androidstudio,markdown,apple,windows&theme=dark)](https://skillicons.dev) 
