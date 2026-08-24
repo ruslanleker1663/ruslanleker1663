@@ -37,9 +37,18 @@
 
 # 📊***Activity Graph***
 
- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ruslanleker1663&bg_color=000080&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" alt="GitHub Activity"/>
+ ![](https://streak-stats.demolab.com?user=ruslanleker1663&theme=dark&hide_border=true)
 
- ![](https://streak-stats.demolab.com?user=ruslanleker1663&theme=react&hide_border=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ruslanleker1663&theme=github-dark&hide_border=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruslanleker1663&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruslanleker1663&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruslanleker1663&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruslanleker1663&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruslanleker1663&theme=github_dark&utcOffset=4)
 
 
 ### ✍️ ***Random Dev Quote***
