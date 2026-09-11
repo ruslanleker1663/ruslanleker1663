@@ -1,4 +1,4 @@
-# 📊***Activity Graph***
+# 📊 ***Activity Graph***
 
  ![](https://streak-stats.demolab.com?user=ruslanleker1663&theme=dark&hide_border=true)
 
