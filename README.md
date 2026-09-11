@@ -1,3 +1,5 @@
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=ruslanleker1663&title=ruslanleker1663&subtitle=Building%20things%20on%20the%20internet&theme=dark"><img alt="ruslanleker1663 hero" src="https://coolreadme.xyz/api/hero-banner?user=ruslanleker1663&title=ruslanleker1663&subtitle=Building%20things%20on%20the%20internet&theme=light"></picture>
+
 # 📊 ***Activity Graph***
 
  ![](https://streak-stats.demolab.com?user=ruslanleker1663&theme=dark&hide_border=true)
@@ -23,8 +25,6 @@
 
 # ***Technology***  
 [![My Skills](https://skillicons.dev/icons?&i=vite,nextjs,nodejs,react,html,css,js,ts,webflow,figma,vercel,vscode,npm,threejs,github,git,gitlab,netlify,androidstudio,markdown,apple,windows,java,tailwindcss,powershell,bootstrap,python,cpp,c&theme=dark)](https://skillicons.dev) 
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=ruslanleker1663&title=ruslanleker1663&subtitle=Building%20things%20on%20the%20internet&theme=dark"><img alt="ruslanleker1663 hero" src="https://coolreadme.xyz/api/hero-banner?user=ruslanleker1663&title=ruslanleker1663&subtitle=Building%20things%20on%20the%20internet&theme=light"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=ruslanleker1663&lines=Building%20things%20on%20the%20internet%7Cgithub.com%2Fruslanleker1663&theme=dark"><img alt="typing intro" src="https://coolreadme.xyz/api/typing-card?user=ruslanleker1663&lines=Building%20things%20on%20the%20internet%7Cgithub.com%2Fruslanleker1663&theme=light"></picture>
 
