@@ -22,7 +22,7 @@
 <div align="left">
 
 # ***Technology***  
-[![My Skills](https://skillicons.dev/icons?perline=10&i=vite,nextjs,nodejs,react,html,css,js,ts,webflow,figma,vercel,vscode,npm,threejs,github,git,gitlab,netlify,androidstudio,markdown,apple,windows,java,tailwindcss,powershell,bootstrap,python&theme=dark)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?&i=vite,nextjs,nodejs,react,html,css,js,ts,webflow,figma,vercel,vscode,npm,threejs,github,git,gitlab,netlify,androidstudio,markdown,apple,windows,java,tailwindcss,powershell,bootstrap,python&theme=dark)](https://skillicons.dev) 
 
 
 <p align="center">
