@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=ruslanleker1663&title=ruslanleker1663&subtitle=Building%20things%20on%20the%20internet&theme=dark"><img alt="ruslanleker1663 hero" src="https://coolreadme.xyz/api/hero-banner?user=ruslanleker1663&title=ruslanleker1663&subtitle=Building%20things%20on%20the%20internet&theme=light"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=ruslanleker1663&title=ruslanleker1663&subtitle=Building%20things%20on%20the%20internet&theme=dark"><img alt="ruslanleker1663 hero" src="https://coolreadme.xyz/api/hero-banner?user=ruslanleker1663&title=ruslanleker1663&subtitle=Building%20things%20on%20the%20internet&theme=dark"></picture>
 
 # 📊 ***Activity Graph***
 
