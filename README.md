@@ -19,10 +19,12 @@ Every great digital experience is a blend of logic and beauty. I am a **Student*
 
 
 ### 🎨 UI Design
+
 - **Design & Prototyping:** Figma, Framer, Webflow
 
   
 ### 💻 Frontend Development
+
 - **Core Languages:** HTML5, CSS3, JavaScript, Typescript
 - **Frameworks & Libraries:** [e.g., React, Next.js, Tailwind CSS, Bootstrap]
 - **Tools & Version Control:** Git, GitHub, VS Code
@@ -57,10 +59,12 @@ I am always open to collaborating on open-source projects, discussing design tre
 
 
 ### ✍️ ***Random Dev Quote***
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 # ***Technology***  
+
 [![My Skills](https://skillicons.dev/icons?&i=vite,nextjs,nodejs,react,html,css,js,ts,webflow,figma,vercel,vscode,npm,threejs,github,git,gitlab,netlify,androidstudio,markdown,apple,windows,java,tailwindcss,powershell,bootstrap,python,cpp,c&theme=dark)](https://skillicons.dev) 
 
 </div>
