@@ -2,7 +2,7 @@
  
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=ruslanleker1663&title=ruslanleker1663&subtitle=Building%20things%20on%20the%20internet&theme=dark"><img alt="ruslanleker1663 hero" src="https://coolreadme.xyz/api/hero-banner?user=ruslanleker1663&title=ruslanleker1663&subtitle=Building%20things%20on%20the%20internet&theme=dark"></picture>
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ira! 👋
 
 Every great digital experience is a blend of logic and beauty. I am a **Student** passionate about technology, actively working as a **Frontend Developer** and **UI Designer**. I love bridging the gap between functional code and aesthetic design to build seamless user experiences.
 
