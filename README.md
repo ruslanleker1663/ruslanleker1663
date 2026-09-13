@@ -2,6 +2,50 @@
  
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=ruslanleker1663&title=ruslanleker1663&subtitle=Building%20things%20on%20the%20internet&theme=dark"><img alt="ruslanleker1663 hero" src="https://coolreadme.xyz/api/hero-banner?user=ruslanleker1663&title=ruslanleker1663&subtitle=Building%20things%20on%20the%20internet&theme=dark"></picture>
 
+# Hi there, I'm [Your Name]! 👋
+
+Every great digital experience is a blend of logic and beauty. I am a **Student** passionate about technology, actively working as a **Frontend Developer** and **UI Designer**. I love bridging the gap between functional code and aesthetic design to build seamless user experiences.
+
+## 🚀 About Me
+
+- 🎓 **Education:** Currently pursuing my studies at Ma Chung University .
+- 💻 **Core Focus:** Building responsive, interactive, and accessible web interfaces.
+- 🎨 **Design Philosophy:** Crafting user-centric wireframes, prototypes, and scalable design systems.
+- 🌱 **Currently Learning:** [e.g., React.js, Next.js, Tailwind CSS, or Advanced Figma animation].
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🎨 UI Design
+- **Design & Prototyping:** Figma, Framer, Webflow
+
+### 💻 Frontend Development
+- **Core Languages:** HTML5, CSS3, JavaScript, Typescript
+- **Frameworks & Libraries:** [e.g., React, Next.js, Tailwind CSS, Bootstrap]
+- **Tools & Version Control:** Git, GitHub, VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![ruslanleker1663 GitHub Stats](https://vercel.app)
+![Most Used Languages](https://vercel.app)
+
+---
+
+## 📫 Let's Connect!
+
+I am always open to collaborating on open-source projects, discussing design trends, or just chatting about tech.
+
+- **LinkedIn:** [Your LinkedIn Link]
+- **Dribbble/Behance:** [Your Design Portfolio Link]
+- **Email:** [Your Email Address]
+- **Twitter/X:** [Your Twitter Handle]
+
+*"Good design is thorough down to the last detail."* ✨
+
+
 # 📊 ***Activity Graph***
 
  ![](https://streak-stats.demolab.com?user=ruslanleker1663&theme=dark&hide_border=true)
