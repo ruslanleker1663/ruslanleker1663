@@ -17,22 +17,16 @@ Every great digital experience is a blend of logic and beauty. I am a **Student*
 
 ## 🛠️ Tech Stack & Tools
 
+
 ### 🎨 UI Design
 - **Design & Prototyping:** Figma, Framer, Webflow
 
+  
 ### 💻 Frontend Development
 - **Core Languages:** HTML5, CSS3, JavaScript, Typescript
 - **Frameworks & Libraries:** [e.g., React, Next.js, Tailwind CSS, Bootstrap]
 - **Tools & Version Control:** Git, GitHub, VS Code
 
----
-
-## 📊 GitHub Stats
-
-![ruslanleker1663 GitHub Stats](https://vercel.app)
-![Most Used Languages](https://vercel.app)
-
----
 
 ## 📫 Let's Connect!
 
