@@ -17,6 +17,7 @@ Every great digital experience is a blend of logic and beauty. I am a **Student*
 
 ## 🛠️ Tech Stack & Tools
 
+[![My Skills](https://skillicons.dev/icons?&i=vite,nextjs,nodejs,react,html,css,js,ts,webflow,figma,vercel,vscode,npm,threejs,github,git,gitlab,netlify,androidstudio,markdown,apple,windows,java,tailwindcss,powershell,bootstrap,python,cpp,c&theme=dark)](https://skillicons.dev) 
 
 ### 🎨 UI Design
 
@@ -62,9 +63,5 @@ I am always open to collaborating on open-source projects, discussing design tre
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-# ***Technology***  
-
-[![My Skills](https://skillicons.dev/icons?&i=vite,nextjs,nodejs,react,html,css,js,ts,webflow,figma,vercel,vscode,npm,threejs,github,git,gitlab,netlify,androidstudio,markdown,apple,windows,java,tailwindcss,powershell,bootstrap,python,cpp,c&theme=dark)](https://skillicons.dev) 
 
 </div>
