@@ -74,7 +74,7 @@ I am always open to collaborating on open-source projects, discussing design tre
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruslanleker1663&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruslanleker1663&theme=github_dark&utcOffset=4)
 
-[![Eiman's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=eimantahir027&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![atchmangela's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=ruslanleker1663&theme=dark&hide_border=true&bg_color=8B0000&color=FFFFFF&line=FFFFFF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 </div>
