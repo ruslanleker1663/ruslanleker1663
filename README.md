@@ -2,7 +2,7 @@
  
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=ruslanleker1663&title=ruslanleker1663&subtitle=Building%20things%20on%20the%20internet&theme=dark"><img alt="ruslanleker1663 hero" src="https://coolreadme.xyz/api/hero-banner?user=ruslanleker1663&title=ruslanleker1663&subtitle=Building%20things%20on%20the%20internet&theme=dark"></picture>
 
-<div align="center" dir="auto">
+<div align="left" dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://count.getloli.com/@falcon0709?name=falcon0709&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
       <img src="https://count.getloli.com/@falcon0709?name=falcon0709&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" data-canonical-src="https://count.getloli.com/@falcon0709?name=falcon0709&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" style="max-width: 100%;">
     </a>
