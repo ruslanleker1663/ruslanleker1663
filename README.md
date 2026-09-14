@@ -37,10 +37,11 @@ I am always open to collaborating on open-source projects, discussing design tre
 
 | Icons | Media | Link |
 |-------|-------|------|
-| [![My Skills](https://skillicons.dev/icons?&i=linkedin&theme=dark)](https://skillicons.dev) | **LinkedIn:** | https://www.linkedin.com/in/imanuel-revo-admojo-ba2865310/ |
-| [![My Skills](https://skillicons.dev/icons?&i=vercel&theme=dark)](https://skillicons.dev) | **Portofolios:** | https://porto-revo-baru.vercel.app |
-| [![My Skills](https://skillicons.dev/icons?&i=gmail&theme=dark)](https://skillicons.dev) | **Email:** | admjrevo@gmail.com |
+| [![My Skills](https://skillicons.dev/icons?&i=linkedin&theme=dark)](https://skillicons.dev) | **LinkedIn** | https://www.linkedin.com/in/imanuel-revo-admojo-ba2865310/ |
+| [![My Skills](https://skillicons.dev/icons?&i=vercel&theme=dark)](https://skillicons.dev) | **Portofolios** | https://porto-revo-baru.vercel.app |
+| [![My Skills](https://skillicons.dev/icons?&i=gmail&theme=dark)](https://skillicons.dev) | **Email** | admjrevo@gmail.com |
 | [![My Skills](https://skillicons.dev/icons?&i=instagram&theme=dark)](https://skillicons.dev) | **Instagram:** | https://instagram.com/revoadmojo29 |
+| [![My Skills](https://skillicons.dev/icons?&i=spotify&theme=dark)](https://skillicons.dev) | **Spotify** | https://open.spotify.com/user/315rftqv4colxhntemcpwpwxhtiq?si=9c5baa41c72a4cfc |
 
 *"Good design is thorough down to the last detail."* ✨
 
