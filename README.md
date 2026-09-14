@@ -10,7 +10,7 @@
 
 # Hi there, I'm Imanuel Revo Admojo ! 👋
 
-Every great digital experience is a blend of logic and beauty. I am a **Student** passionate about technology, actively working as a **Frontend Developer** and **UI Designer**. I love bridging the gap between functional code and aesthetic design to build seamless user experiences.
+Every great digital experience is a blend of logic and beauty. I am a **Student** of Computer Science & Artificial intelegence of Design & Technology Faculty , actively working as a **Frontend Developer** and **UI Designer**. I love bridging the gap between functional code and aesthetic design to build seamless user experiences.
 
 ## 🚀 About Me
 
