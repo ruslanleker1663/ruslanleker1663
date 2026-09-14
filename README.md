@@ -34,10 +34,10 @@ Every great digital experience is a blend of logic and beauty. I am a **Student*
 
 I am always open to collaborating on open-source projects, discussing design trends, or just chatting about tech.
 
-- **LinkedIn:** [Your LinkedIn Link]
-- **Dribbble/Behance:** [Your Design Portfolio Link]
-- **Email:** [Your Email Address]
-- **Twitter/X:** [Your Twitter Handle]
+- **LinkedIn:** https://www.linkedin.com/in/imanuel-revo-admojo-ba2865310/
+- **Dribbble/Behance:** https://porto-revo-baru.vercel.app
+- **Email:** admjrevo@gmail.com
+- **Instagram:** https://instagram.com/revoadmojo29
 
 *"Good design is thorough down to the last detail."* ✨
 
