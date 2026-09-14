@@ -42,6 +42,8 @@ I am always open to collaborating on open-source projects, discussing design tre
 | [![My Skills](https://skillicons.dev/icons?&i=gmail&theme=dark)](https://skillicons.dev) | **Email** | admjrevo@gmail.com |
 | [![My Skills](https://skillicons.dev/icons?&i=instagram&theme=dark)](https://skillicons.dev) | **Instagram:** | https://instagram.com/revoadmojo29 |
 | [![My Skills](https://skillicons.dev/icons?&i=spotify&theme=dark)](https://skillicons.dev) | **Spotify** | https://open.spotify.com/user/315rftqv4colxhntemcpwpwxhtiq?si=9c5baa41c72a4cfc |
+| [![My Skills](https://skillicons.dev/icons?&i=github&theme=dark)](https://skillicons.dev) | **Github Real** | https://github.com/ruslanleker1663 | 
+| [![My Skills](https://skillicons.dev/icons?&i=github&theme=dark)](https://skillicons.dev) | **Github Collab** | https://github.com/JihadZaidan |
 
 *"Good design is thorough down to the last detail."* ✨
 
