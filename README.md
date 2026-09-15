@@ -12,6 +12,26 @@
 
 Every great digital experience is a blend of logic and beauty. I am a **Student** of Computer Science & Artificial intelegence of Design & Technology Faculty at UMC Malang, actively working as a **Frontend Developer** and **UI Designer**. I love bridging the gap between functional code and aesthetic design to build seamless user experiences.
 
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://readme-spotify.deadshot674gam.vercel.app/api/spotify)](https:/open.spotify.com/user/31ruybw2b6d5ynswe7wsj4w5vaqe)
+
+  </td>
+  <td width="50%">
+
+<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5ck1H)
+  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+</p>
+  </td>
+  </table>
+
+[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+[//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
+
 ## 🚀 About Me
 
 - 🎓 **Education:** Currently pursuing my studies at Ma Chung University .
@@ -47,7 +67,6 @@ I am always open to collaborating on open-source projects, discussing design tre
 | [![My Skills](https://skillicons.dev/icons?&i=vercel&theme=dark)](https://skillicons.dev) | **Portofolios** | https://porto-revo-baru.vercel.app |
 | [![My Skills](https://skillicons.dev/icons?&i=gmail&theme=dark)](https://skillicons.dev) | **Email** | admjrevo@gmail.com |
 | [![My Skills](https://skillicons.dev/icons?&i=instagram&theme=dark)](https://skillicons.dev) | **Instagram:** | https://instagram.com/revoadmojo29 |
-| [![My Skills](https://skillicons.dev/icons?&i=spotify&theme=dark)](https://skillicons.dev) | **Spotify** | ![Preview](https://open.spotify.com/user/315rftqv4colxhntemcpwpwxhtiq?si=23fd637c98434b76?spin=true&scan=true&eq_color=rainbow&theme=dark) |
 | [![My Skills](https://skillicons.dev/icons?&i=github&theme=dark)](https://skillicons.dev) | **Github Real** | https://github.com/ruslanleker1663 | 
 | [![My Skills](https://skillicons.dev/icons?&i=github&theme=dark)](https://skillicons.dev) | **Github Collab** | https://github.com/JihadZaidan |
 | [![My Skills](https://skillicons.dev/icons?&i=discord&theme=dark)](https://skillicons.dev) | **Discord** | https://discord.com/atчemoryza |
