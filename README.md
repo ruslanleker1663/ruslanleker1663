@@ -16,7 +16,7 @@ Every great digital experience is a blend of logic and beauty. I am a **Student*
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://readme-spotify.deadshot674gam.vercel.app/api/spotify)](https://open.spotify.com/user/315rftqv4colxhntemcpwpwxhtiq?si=2a44d90113bc4f51)
+&nbsp; <br> [![Spotify](https://readme-spotify.deadshot674gam.vercel.app/api/spotify)](https://open.spotify.com/user/315rftqv4colxhntemcpwpwxhtiq)
 
   </td>
   <td width="50%">
