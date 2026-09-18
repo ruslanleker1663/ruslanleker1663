@@ -85,7 +85,7 @@ I am always open to collaborating on open-source projects, discussing design tre
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruslanleker1663&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruslanleker1663&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruslanleker1663&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruslanleker1663&theme=github_light)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruslanleker1663&theme=github_dark&utcOffset=4)
 
 [![atchmangela's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=ruslanleker1663&theme=dark&hide_border=true&bg_color=8B0000&color=FFFFFF&line=FFFFFF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
