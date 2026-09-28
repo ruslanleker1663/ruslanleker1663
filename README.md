@@ -24,15 +24,15 @@ Every great digital experience is a blend of logic and beauty. I am a **Student*
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=JihadZaidan&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=JihadZaidan&theme=neon" alt="JihadZaidan stats section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ruslanleker1663&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=ruslanleker1663&theme=neon" alt="JihadZaidan stats section" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=JihadZaidan&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=JihadZaidan&theme=neon" alt="JihadZaidan projects section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ruslanleker1663&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=ruslanleker1663&theme=neon" alt="JihadZaidan projects section" />
   </picture>
 </p>
 
