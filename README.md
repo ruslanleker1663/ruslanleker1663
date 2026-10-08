@@ -81,9 +81,33 @@ I am always open to collaborating on open-source projects, discussing design tre
 
 # 📊 ***Activity Graph***
 
-![](https://streak-stats.demolab.com?user=ruslanleker1663&theme=dark&hide_border=true)
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=ruslanleker1663&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ruslanleker1663&theme=radical"/>
+</div>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=ruslanleker1663&theme=github-dark&hide_border=true)
+<table>
+<tr>
+<td width="33%">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ruslanleker1663&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruslanleker1663&theme=transparent" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruslanleker1663&theme=transparent&utc_offset=5.5" />
+
+</td>
+</tr>
+</table>
+</p>
+
+</div>
 
 [![atchmangela's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=ruslanleker1663&theme=dark&hide_border=true&bg_color=8B0000&color=FFFFFF&line=FFFFFF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
