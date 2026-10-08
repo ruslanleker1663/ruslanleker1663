@@ -22,12 +22,6 @@ Every great digital experience is a blend of logic and beauty. I am a **Student*
 
 ---
 
-<div align="center">
-    <img
-      src="https://github-trophies.vercel.app/?username=ruslanleker1663&theme=discord&no-frame=true&no-bg=true&margin-w=4"
-    />
-</div>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ruslanleker1663&theme=neon&mode=light" />
@@ -107,6 +101,12 @@ I am always open to collaborating on open-source projects, discussing design tre
 </table>
 </p>
 
+</div>
+
+<div align="center">
+    <img
+      src="https://github-trophies.vercel.app/?username=ruslanleker1663&theme=discord&no-frame=true&no-bg=true&margin-w=4"
+    />
 </div>
 
 [![atchmangela's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=ruslanleker1663&theme=dark&hide_border=true&bg_color=8B0000&color=FFFFFF&line=FFFFFF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
