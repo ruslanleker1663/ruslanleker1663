@@ -22,6 +22,12 @@ Every great digital experience is a blend of logic and beauty. I am a **Student*
 
 ---
 
+<div align="center">
+    <img
+      src="https://github-trophies.vercel.app/?username=ruslanleker1663&theme=discord&no-frame=true&no-bg=true&margin-w=4"
+    />
+</div>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ruslanleker1663&theme=neon&mode=light" />
