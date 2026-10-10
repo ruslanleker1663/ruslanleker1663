@@ -109,6 +109,11 @@ I am always open to collaborating on open-source projects, discussing design tre
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.nspx.dev/assets/perfil/stats-dark.svg">
+  <img alt="Public repositories, contributions over the last twelve months, languages by repository count, and how recently something was pushed" src="https://www.nspx.dev/assets/perfil/stats-light.svg" width="100%">
+</picture>
+
 [![atchmangela's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=ruslanleker1663&theme=dark&hide_border=true&bg_color=0000FF&color=FFFFFF&line=FFFFFF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
