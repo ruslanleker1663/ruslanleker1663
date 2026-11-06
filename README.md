@@ -38,7 +38,7 @@ Every great digital experience is a blend of logic and beauty. I am a **Student*
 
 ## 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?perline=11&i=vite,nextjs,nodejs,react,html,css,js,ts,webflow,figma,vercel,vscode,npm,threejs,github,git,gitlab,netlify,androidstudio,markdown,apple,windows,java,tailwindcss,powershell,bootstrap,python,pycharm,cpp,c,postman&theme=dark)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?perline=11&i=vite,nextjs,nodejs,react,html,css,js,ts,webflow,figma,vercel,vscode,npm,threejs,github,git,gitlab,netlify,androidstudio,markdown,apple,windows,java,tailwindcss,powershell,bootstrap,python,pycharm,webstrom,cpp,c,postman&theme=dark)](https://skillicons.dev) 
 
 ### 🎨 UI Design
 
