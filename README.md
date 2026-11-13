@@ -8,7 +8,7 @@
     </a>
 </div>
 
-# Hi there, I'm Imanuel Revo Admojo ! 👋
+# Hi there, I'm Student! 👋
 
 Every great digital experience is a blend of logic and beauty. I am a **Student** of Computer Science & Artificial intelegence of Design & Technology Faculty at Ma Chung University Malang, actively working as a **Frontend Developer** and **UI Designer**. I love bridging the gap between functional code and aesthetic design to build seamless user experiences.
 
